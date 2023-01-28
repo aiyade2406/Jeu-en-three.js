@@ -1,0 +1,46 @@
+body { margin: 0;
+    background-color: rgb(25, 22, 22);
+    position: absolute;
+   
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+    }
+    
+    #decompte{
+        background-color: rgb(255, 255, 255);
+        width: 50%;
+        height: 80px;
+        font-size: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+        
+       
+    }
+    figure{
+        width: 40%;
+        height: 80px;
+    }
+    img{
+        width: 50%;
+        height: 100%;
+    }
+
+    #compte{
+        background-color: rgb(255, 255, 255);
+        width: 50%;
+        height: 80px;
+        font-size: 4rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        
+       
+    }
+    .contain{
+        display: flex;
+    }
